@@ -4,7 +4,6 @@ Initially documented here: http://arduino.vn/node/1497
 
 This version is the one on Github. 
 
-
 /******************************************************************************* 
 SerialCommand - An Arduino library to tokenize and parse commands received over
 a serial port. 
