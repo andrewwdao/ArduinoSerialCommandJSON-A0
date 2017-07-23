@@ -8,7 +8,8 @@ This version is the one on Github.
 SerialCommand - An Arduino library to tokenize and parse commands received over
 a serial port. 
 Based on 2011-2013 Steven Cogswell  <steven.cogswell@gmail.com>
-Copyright 2017 Ngo Huynh Ngoc Khanh <ngohuynhngockhanh@gmail.com>
+Based on 2017 Ngo Huynh Ngoc Khanh <ngohuynhngockhanh@gmail.com>
+Copyright 2017 Dao Minh An <minhan7497@gmail.com>
 http://arduino.vn
 
 Version 2017.   
