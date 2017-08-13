@@ -48,6 +48,9 @@ Developed from the version of kps from : http://arduino.vn/bai-viet/1497-esp8266
 ***********************************************************************************/
 
 
+Basic API: in examples.
+
+
 
 
                                          
