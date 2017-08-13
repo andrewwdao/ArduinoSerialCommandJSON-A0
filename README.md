@@ -1,4 +1,5 @@
 An Arduino library to tokenize and parse commands received over a serial port. 
+Commands are based on JSON Strings <COMMAND>\r<JSON string>\r
 
 Initially documented here: http://arduino.vn/node/1497
 
