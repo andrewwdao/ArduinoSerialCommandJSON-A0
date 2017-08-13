@@ -3,7 +3,7 @@ An Arduino library to tokenize and parse commands received over a serial port.
 Initially documented here: http://arduino.vn/node/1497
 
 This version is the one on Github. 
-
+Basic API: in examples. (Basic_API)
 /******************************************************************************* 
 SerialCommand - An Arduino library to tokenize and parse commands received over
 a serial port. 
@@ -43,12 +43,13 @@ License along with this library; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 
 Developed from the version of kps from : http://arduino.vn/bai-viet/1497-esp8266-ket-noi-internet-phan-2-arduino-gap-esp8266-hai-dua-noi-chuyen-bang-json
-                                         https://github.com/ngohuynhngockhanh/ArduinoSerialCommand
+                                         
+https://github.com/ngohuynhngockhanh/ArduinoSerialCommand
 
 ***********************************************************************************/
 
 
-Basic API: in examples.
+
 
 
 
